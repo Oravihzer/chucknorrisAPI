@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap");
+
+.wraper {
+  background-color: rgb(255, 255, 255);
+
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+#start {
+  width: 150px;
+  font-family: "Courier New", Courier, monospace;
+}
+#quote {
+  font-family: "Ubuntu", sans-serif;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+h1 {
+  font-family: "Ubuntu", sans-serif;
+}
